@@ -1,5 +1,44 @@
-html {
+
+
+body {
+    text-align: center;
     background-color: black;
     color: white;
+    
+}
 
+.camp {
+    margin: auto;
+    width: 80%;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 20px;
+
+}
+
+h2{
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h3 {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
 }
